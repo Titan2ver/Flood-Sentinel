@@ -39,12 +39,6 @@ mètre est approximatif. Les vitesses obtenues sont donc des estimations
 relatives. Pour une mesure absolue, il faudrait étalonner la caméra sur un
 objet de dimensions connues, placé à la surface de l'eau.
 
-## Lancer le projet
-
-    pip install -r requirements.txt
-    python src/video_flow_view.py        # visualisation sur samples/rec.avi
-    python src/live_flow_view.py         # visualisation en direct (webcam)
-
 ## Technologies
 
 Python · OpenCV · NumPy · Matplotlib · Raspberry Pi · Node-RED · Apache
