@@ -5,7 +5,8 @@ d'eau pour anticiper les crues. Le cœur du projet est un module de vision : une
 webcam filme la surface de la rivière, et le flux optique entre les images
 successives permet d'estimer la vitesse de l'écoulement.
 
-Projet de fin d'année E3T à l'ESIEE Paris, réalisé en équipe.
+Projet de fin d’année E3T à l’ESIEE Paris, réalisé en équipe.
+J’ai personnellement assuré le développement et la partie technique du code présentée dans ce dépôt.
 
 ![Flux optique sur une vidéo de crue](images/optical_flow.png)
 
