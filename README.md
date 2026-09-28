@@ -27,7 +27,7 @@ Projet de fin d'année E3T à l'ESIEE Paris, réalisé en équipe.
 
 | Profil de vitesse le long de la rivière | Vitesse au cours du temps |
 |---|---|
-| ![](docs/images/speed_profile.png) | ![](docs/images/speed_time.png) |
+| ![](images/speed_profile.png) | ![](images/speed_time.png) |
 
 Le profil montre un écoulement plus rapide au centre du lit (jusqu'à environ 6 m/s)
 et quasi nul près des berges.
